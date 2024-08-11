@@ -3,7 +3,7 @@
 
 - 📫 How to reach me avin8263@gmail.com
 
-- ⚡ Fun fact:Easy to Deal🤝 
+- ⚡ Fun fact: Easy to Deal🤝 
 
 <!---
 avin1010/avin1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
